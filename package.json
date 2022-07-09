@@ -3,7 +3,9 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "format": "prettier --write ."
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "prepare": "husky install"
   },
   "dependencies": {
     "dayjs": "^1.11.3",
@@ -17,7 +19,14 @@
     "@types/js-yaml": "^4.0.5",
     "@types/node": "^18.0.3",
     "@types/react": "^18.0.15",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
     "daisyui": "^2.18.1",
+    "eslint": "^8.19.0",
+    "eslint-config-next": "^12.2.2",
+    "eslint-config-prettier": "^8.5.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
     "postcss": "^8.4.14",
     "postcss-preset-env": "^7.7.2",
     "prettier": "2.7.1",

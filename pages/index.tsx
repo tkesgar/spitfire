@@ -1,5 +1,5 @@
 import dayjs from "dayjs";
-import { GetStaticProps } from "next";
+import type { GetStaticProps } from "next";
 import NextImage from "next/future/image";
 import apex2434Logo from "../assets/apex-2434-logo.png";
 import { getStatistics, loadChallengeData } from "../services/challenge";
@@ -34,7 +34,7 @@ export default function Index({ statistics }: StaticProps): React.ReactElement {
           priority
         />
         <h1 className="text-4xl font-light mb-8">
-          Selen's Apex 2434 Nijisanji Tracker
+          Selen&apos;s Apex 2434 Nijisanji Tracker
         </h1>
         <div
           className="radial-progress bg-primary text-primary-content border-8 border-primary"
