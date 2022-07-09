@@ -1,0 +1,771 @@
+- url: https://www.youtube.com/watch?v=x2o_PHQB7aQ
+  guests: []
+  games:
+    - url: https://youtu.be/x2o_PHQB7aQ?t=505
+      map: stormpoint
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: Sea
+          legend: mirage
+          kills: 0
+        - type: random
+          name: AuntieSlammer
+          legend: octane
+          kills: 0
+      summary:
+        kills: 0
+        damage: 96
+        revives: 0
+        respawns: 0
+        rank: 15
+        time: 2m 30s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=790
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: fighrfly
+          legend: valkyrie
+          kills: 0
+        - type: random
+          name: Glaicy
+          legend: loba
+          kills: 1
+      summary:
+        kills: 0
+        damage: 40
+        revives: 0
+        respawns: 0
+        rank: 19
+        time: 1m 29s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=1014
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: Local Keshi Stan
+          legend: octane
+          kills: 2
+        - type: random
+          name: x Vyking
+          legend: valkyrie
+          kills: 0
+      summary:
+        kills: 3
+        damage: 1012
+        revives: 1
+        respawns: 1
+        rank: 5
+        time: 8m 43s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=1617
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: BigBoejack
+          legend: valkyrie
+          kills: 0
+        - type: random
+          name: nonximportant15x
+          legend: bangalore
+          kills: 0
+      summary:
+        kills: 2
+        damage: 1024
+        revives: 0
+        respawns: 0
+        rank: 4
+        time: 13m 32s
+      tags:
+        - manual_time
+    - url: https://youtu.be/x2o_PHQB7aQ?t=2562
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: nonximportant15x
+          legend: bangalore
+          kills: 0
+        - type: random
+          name: 42Kilo
+          legend: fuse
+          kills: 0
+      summary:
+        kills: 6
+        damage: 1020
+        revives: 0
+        respawns: 0
+        rank: 7
+        time: 4m 1s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=2885
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: Jimbo
+          legend: loba
+          kills: 0
+        - type: random
+          name: Nar
+          legend: octane
+          kills: 0
+      summary:
+        kills: 0
+        damage: 0
+        revives: 0
+        respawns: 0
+        rank: 20
+        time: 32s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=2947
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: x Vyking
+          legend: lifeline
+          kills: 0
+        - type: random
+          name: IIIXZiGENIII
+          legend: octane
+          kills: 0
+      summary:
+        kills: 1
+        damage: 204
+        revives: 0
+        respawns: 0
+        rank: 16
+        time: 1m 22s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=3182
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: ThreeToeSloth
+          legend: rampart
+          kills: 1
+        - type: random
+          name: Chinami
+          legend: octane
+          kills: 0
+      summary:
+        kills: 0
+        damage: 194
+        revives: 0
+        respawns: 0
+        rank: 12
+        time: 3m 35s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=3532
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: Lmitate
+          legend: gibraltar
+          kills: 1
+        - type: random
+          name: JLaoMein
+          legend: bangalore
+          kills: 1
+      summary:
+        kills: 1
+        damage: 1211
+        revives: 0
+        respawns: 0
+        rank: 3
+        time: 18m 31s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=4695
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: Kurosawa
+          legend: fuse
+          kills: 1
+        - type: random
+          name: DGoff on Twitch
+          legend: octane
+          kills: 0
+      summary:
+        kills: 4
+        damage: 933
+        revives: 0
+        respawns: 4
+        rank: 2
+        time: 15m 27s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=5704
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: Kurosawa
+          legend: fuse
+          kills: 0
+      summary:
+        kills: 1
+        damage: 539
+        revives: 0
+        respawns: 1
+        rank: 9
+        time: 7m 54s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=6268
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: My Captain
+          legend: octane
+          kills: 0
+        - type: random
+          name: NiczDawg
+          legend: lifeline
+          kills: 0
+      summary:
+        kills: 4
+        damage: 593
+        revives: 0
+        respawns: 0
+        rank: 13
+        time: 3m 15s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=6518
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: NiczDawg
+          legend: lifeline
+          kills: 1
+        - type: random
+          name: YESSAH BLESSAH
+          legend: octane
+          kills: 1
+      summary:
+        kills: 5
+        damage: 1950
+        revives: 1
+        respawns: 1
+        rank: 2
+        time: 15m 8s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=7553
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: lifeline
+        - type: random
+          name: CervicalProlapse
+          legend: wraith
+          kills: 0
+        - type: random
+          name: プリケツはんにゃ_YouTube
+          legend: horizon
+          kills: 0
+      summary:
+        kills: 0
+        damage: 689
+        revives: 0
+        respawns: 0
+        rank: 2
+        time: 14m 59s
+    - url: https://youtu.be/x2o_PHQB7aQ?t=7553
+      map: stormpoint
+      team:
+        - type: selen
+          legend: wraith
+        - type: random
+          name: Heemu
+          legend: pathfinder
+          kills: 0
+        - type: random
+          name: GoodGuyT
+          legend: gibraltar
+          kills: 0
+      summary:
+        kills: 1
+        damage: 686
+        revives: 0
+        respawns: 1
+        rank: 7
+        time: 10m 5s
+- url: https://www.youtube.com/watch?v=4WsTLRXLp5E
+  guests:
+    - name: aza
+    - name: yog
+  games:
+    - url: https://youtu.be/4WsTLRXLp5E?t=417
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 4
+        - type: niji
+          name: yog
+          legend: gibraltar
+          kills: 1
+      summary:
+        kills: 2
+        damage: 541
+        revives: 0
+        respawns: 0
+        rank: 11
+        time: 2m 37s
+    - url: https://youtu.be/4WsTLRXLp5E?t=754
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 2
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 3
+      summary:
+        kills: 5
+        damage: 1403
+        revives: 1
+        respawns: 0
+        rank: 6
+        time: 9m 18s
+    - url: https://youtu.be/4WsTLRXLp5E?t=1409
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 10
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 6
+      summary:
+        kills: 7
+        damage: 1365
+        revives: 4
+        respawns: 0
+        rank: 1
+        time: 13m 57s
+    - url: https://youtu.be/4WsTLRXLp5E?t=2370
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 1
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 3
+      summary:
+        kills: 0
+        damage: 240
+        revives: 0
+        respawns: 0
+        rank: 11
+        time: 4m 33s
+    - url: https://youtu.be/4WsTLRXLp5E?t=2737
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 3
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 3
+      summary:
+        kills: 3
+        damage: 700
+        revives: 1
+        respawns: 0
+        rank: 5
+        time: 7m 11s
+    - url: https://youtu.be/4WsTLRXLp5E?t=3302
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 6
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 7
+      summary:
+        kills: 8
+        damage: 1984
+        revives: 3
+        respawns: 0
+        rank: 1
+        time: 13m 59s
+    - url: https://youtu.be/4WsTLRXLp5E?t=4215
+      map: olympus
+      team:
+        - type: selen
+          legend: horizon
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 9
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 5
+      summary:
+        kills: 3
+        damage: 1782
+        revives: 1
+        respawns: 1
+        rank: 1
+        time: 11m 24s
+    - url: https://youtu.be/4WsTLRXLp5E?t=5236
+      map: olympus
+      team:
+        - type: selen
+          legend: horizon
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 0
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 0
+      summary:
+        kills: 3
+        damage: 343
+        revives: 1
+        respawns: 0
+        rank: 13
+        time: 2m 17s
+    - url: https://youtu.be/4WsTLRXLp5E?t=5465
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: horizon
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 6
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 5
+      summary:
+        kills: 5
+        damage: 1303
+        revives: 4
+        respawns: 1
+        rank: 4
+        time: 14m 40s
+    - url: https://youtu.be/4WsTLRXLp5E?t=6467
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: horizon
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 4
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 3
+      summary:
+        kills: 0
+        damage: 511
+        revives: 0
+        respawns: 0
+        rank: 11
+        time: 2m 39s
+    - url: https://youtu.be/4WsTLRXLp5E?t=6693
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: horizon
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 1
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 0
+      summary:
+        kills: 2
+        damage: 422
+        revives: 0
+        respawns: 0
+        rank: 12
+        time: 3m 3s
+    - url: https://youtu.be/4WsTLRXLp5E?t=6952
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: horizon
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 1
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 0
+      summary:
+        kills: 1
+        damage: 312
+        revives: 0
+        respawns: 0
+        rank: 11
+        time: 2m 48s
+    - url: https://youtu.be/4WsTLRXLp5E?t=7261
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: horizon
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 10
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 3
+      summary:
+        kills: 4
+        damage: 885
+        revives: 1
+        respawns: 0
+        rank: 1
+        time: 15m 15s
+- url: https://www.youtube.com/watch?v=YRJzq4WYQIw
+  guests:
+    - name: nari
+    - name: suha
+  games:
+    - url: https://youtu.be/YRJzq4WYQIw?t=768
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: caustic
+          kills: 1
+        - type: niji
+          name: suha
+          legend: horizon
+          kills: 1
+      summary:
+        kills: 0
+        damage: 710
+        revives: 0
+        respawns: 0
+        rank: 9
+        time: 5m 21s
+    - url: https://youtu.be/YRJzq4WYQIw?t=1171
+      map: worlds_edge
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: caustic
+          kills: 0
+        - type: niji
+          name: suha
+          legend: valkyrie
+          kills: 1
+      summary:
+        kills: 1
+        damage: 571
+        revives: 1
+        respawns: 1
+        rank: 3
+        time: 17m 3s
+    - url: https://youtu.be/YRJzq4WYQIw?t=2295
+      map: stormpoint
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: caustic
+          kills: 2
+        - type: niji
+          name: suha
+          legend: valkyrie
+          kills: 2
+      summary:
+        kills: 1
+        damage: 175
+        revives: 0
+        respawns: 0
+        rank: 17
+        time: 1m 34s
+    - url: https://youtu.be/YRJzq4WYQIw?t=2453
+      map: stormpoint
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: bloodhound
+          kills: 1
+        - type: niji
+          name: suha
+          legend: valkyrie
+          kills: 2
+      summary:
+        kills: 6
+        damage: 1873
+        revives: 2
+        respawns: 0
+        rank: 3
+        time: 18m 36s
+    - url: https://youtu.be/YRJzq4WYQIw?t=3719
+      map: stormpoint
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: bloodhound
+          kills: 1
+        - type: niji
+          name: suha
+          legend: valkyrie
+          kills: 1
+      summary:
+        kills: 7
+        damage: 2201
+        revives: 1
+        respawns: 0
+        rank: 3
+        time: 18m 52s
+    - url: https://youtu.be/YRJzq4WYQIw?t=4936
+      map: stormpoint
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: caustic
+          kills: 0
+        - type: niji
+          name: suha
+          legend: valkyrie
+          kills: 1
+      summary:
+        kills: 3
+        damage: 753
+        revives: 0
+        respawns: 0
+        rank: 5
+        time: 12m 40s
+    - url: https://youtu.be/YRJzq4WYQIw?t=5788
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: caustic
+          kills: 1
+        - type: niji
+          name: suha
+          legend: horizon
+          kills: 2
+      summary:
+        kills: 7
+        damage: 1438
+        revives: 2
+        respawns: 0
+        rank: 4
+        time: 13m 14s
+    - url: https://youtu.be/YRJzq4WYQIw?t=6680
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: caustic
+          kills: 0
+        - type: niji
+          name: suha
+          legend: valkyrie
+          kills: 0
+      summary:
+        kills: 0
+        damage: 384
+        revives: 0
+        respawns: 0
+        rank: 7
+        time: 8m 22s
+    - url: https://youtu.be/YRJzq4WYQIw?t=7277
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: caustic
+          kills: 0
+        - type: niji
+          name: suha
+          legend: valkyrie
+          kills: 0
+      summary:
+        kills: 3
+        damage: 1031
+        revives: 1
+        respawns: 0
+        rank: 5
+        time: 9m 19s
+    - url: https://youtu.be/YRJzq4WYQIw?t=7916
+      map: olympus
+      team:
+        - type: selen
+          legend: wraith
+        - type: niji
+          name: nari
+          legend: gibraltar
+          kills: 3
+        - type: niji
+          name: suha
+          legend: valkyrie
+          kills: 0
+      summary:
+        kills: 3
+        damage: 673
+        revives: 0
+        respawns: 2
+        rank: 5
+        time: 15m 11s
