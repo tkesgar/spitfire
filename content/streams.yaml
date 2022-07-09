@@ -428,6 +428,26 @@
       map: olympus
       team:
         - type: selen
+          legend: wraith
+        - type: niji
+          name: aza
+          legend: pathfinder
+          kills: 3
+        - type: niji
+          name: yog
+          legend: bloodhound
+          kills: 0
+      summary:
+        kills: 0
+        damage: 216
+        revives: 0
+        respawns: 0
+        rank: 17
+        time: 2m 2s
+    - url: https://youtu.be/4WsTLRXLp5E?t=4407
+      map: olympus
+      team:
+        - type: selen
           legend: horizon
         - type: niji
           name: aza
